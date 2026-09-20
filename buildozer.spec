@@ -2,8 +2,8 @@
 title = Campus Hub
 package.name = campushub
 package.domain = org.student
+source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
-source.include_dir = downloads
 version = 1.0
 requirements = python3,kivy,sqlite3
 orientation = portrait
